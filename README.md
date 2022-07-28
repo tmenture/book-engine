@@ -5,8 +5,8 @@ In this project I took a fully functioning Google Books API search engine built 
 This app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. 
 
 # Deployed Application:
-https://toms-book-engine.herokuapp.com/
-![ScreenShot](images/book-engine-snap-shot.png)
+
+![ScreenShot](images/book-engine-snap-shot.png)(https://toms-book-engine.herokuapp.com/)
 
 # Built With:
 * JavaScript

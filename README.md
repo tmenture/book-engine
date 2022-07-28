@@ -6,7 +6,7 @@ This app was built using the MERN stack, with a React front end, MongoDB databas
 
 # Deployed Application:
 https://toms-book-engine.herokuapp.com/
-
+![ScreenShot](images/book-engine-snap-shot.png)
 
 # Built With:
 * JavaScript
